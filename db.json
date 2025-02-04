@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of Artificial Intelligence",
+      "content": "AI is revolutionizing industries across the world. In the coming years, its impact will extend into every aspect of our lives, from healthcare to education, and even art. What do you think the future holds?",
+      "views": 1245,
+      "like": 340,
+      "dislike": 12,
+      "createdAt": "2025-02-01T08:30:00Z",
+      "createdUserId": 101,
+      "picture": "https://images.pexels.com/photos/1430677/pexels-photo-1430677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 2,
+      "title": "How to Start a Business in 2025",
+      "content": "Starting a business today requires an understanding of modern tools, digital marketing strategies, and the global market. This guide will walk you through the essential steps to get your idea off the ground.",
+      "views": 998,
+      "like": 210,
+      "dislike": 4,
+      "createdAt": "2025-02-03T14:00:00Z",
+      "createdUserId": 102,
+      "picture": "https://images.pexels.com/photos/1430677/pexels-photo-1430677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 3,
+      "title": "Top 10 Travel Destinations for 2025",
+      "content": "From serene beaches to bustling cities, 2025 offers a wide range of travel opportunities. Check out these top 10 destinations that should be on every traveler's bucket list this year!",
+      "views": 562,
+      "like": 78,
+      "dislike": 2,
+      "createdAt": "2025-02-02T09:15:00Z",
+      "createdUserId": 103,
+      "picture": "https://images.pexels.com/photos/1430677/pexels-photo-1430677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 4,
+      "title": "The Best Fitness Routines for Beginners",
+      "content": "Starting your fitness journey doesn't need to be overwhelming. Here are some simple and effective workout routines to help beginners stay active and healthy.",
+      "views": 876,
+      "like": 190,
+      "dislike": 5,
+      "createdAt": "2025-01-30T11:45:00Z",
+      "createdUserId": 104,
+      "picture": "https://images.pexels.com/photos/1430677/pexels-photo-1430677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 5,
+      "title": "Understanding Cryptocurrency in 2025",
+      "content": "With the rise of blockchain technology, cryptocurrencies are becoming more mainstream. This post breaks down what you need to know about digital currencies and their potential future impact.",
+      "views": 1345,
+      "like": 510,
+      "dislike": 15,
+      "createdAt": "2025-02-04T10:00:00Z",
+      "createdUserId": 105,
+      "picture": "https://images.pexels.com/photos/1430677/pexels-photo-1430677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 6,
+      "title": "Sustainable Fashion: The Future of Clothing",
+      "content": "As the fashion industry grapples with sustainability issues, more brands are embracing eco-friendly materials and ethical practices. Learn how this shift will shape the future of fashion.",
+      "views": 1123,
+      "like": 430,
+      "dislike": 9,
+      "createdAt": "2025-02-01T16:20:00Z",
+      "createdUserId": 106,
+      "picture": "https://images.pexels.com/photos/1430677/pexels-photo-1430677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
