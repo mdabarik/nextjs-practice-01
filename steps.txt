@@ -3,7 +3,8 @@
 -- create nextjs app using "npx create-next-app@latest" - done
 -- create page (posts, about, contact) - done
 -- setup global fonts - done
--- dummy server setup (json-server) [alternative port]
+-- dummy server setup (json-server) [alternative port] - done
+-- create navbar using tailwind (install and customize daisyui)
 -- display 3 posts on homepage
 -- display 6 posts on posts page (loading...)
 -- create dashboard page and hide navbar on dashboard
