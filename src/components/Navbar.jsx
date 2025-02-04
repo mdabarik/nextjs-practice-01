@@ -1,7 +1,12 @@
+"use client";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import React from "react";
 
 const Navbar = () => {
+  const path = usePathname();
+  console.log(path);
+
   return (
     <div className="navbar bg-base-300">
       <div className="navbar-start">
@@ -43,14 +48,29 @@ const Navbar = () => {
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
           <li className="active">
-            <Link href="/">Home</Link>
+            <Link
+              className={path == "/" ? "bg-blue-400 text-white" : " "}
+              href="/"
+            >
+              Home
+            </Link>
           </li>
           <li>
-            <Link href="/about">About</Link>
+            <Link
+              className={path == "/about" ? "bg-blue-400 text-white" : " "}
+              href="/about"
+            >
+              About
+            </Link>
             {/* <a className="bg-blue-400 text-white">About</a> */}
           </li>
           <li>
-            <Link href="/contact">Contact</Link>
+            <Link
+              className={path == "/contact" ? "bg-blue-400 text-white" : " "}
+              href="/contact"
+            >
+              Contact
+            </Link>
           </li>
         </ul>
       </div>
