@@ -8,6 +8,7 @@
 -- active navgigationbn - done
 -- display 3 posts on homepage - done
 -- display 6 posts on posts page (loading...) - done
+-- external image source in config - done
 -- revalidating in home page 3 posts - done
 -- customize error page (post) - done
 -- common and dashboard common group layout - done
