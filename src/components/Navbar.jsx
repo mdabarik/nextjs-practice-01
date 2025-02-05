@@ -72,6 +72,14 @@ const Navbar = () => {
               Contact
             </Link>
           </li>
+          <li>
+            <Link
+              className={path == "/dashboard" ? "bg-blue-400 text-white" : " "}
+              href="/dashboard"
+            >
+              Dashboard
+            </Link>
+          </li>
         </ul>
       </div>
 

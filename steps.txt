@@ -4,9 +4,13 @@
 -- create page (posts, about, contact) - done
 -- setup global fonts - done
 -- dummy server setup (json-server) [alternative port] - done
--- create navbar using tailwind (install and customize daisyui)
--- display 3 posts on homepage
--- display 6 posts on posts page (loading...)
--- create dashboard page and hide navbar on dashboard
--- customize error page
--- active navigation tab
+-- create navbar using tailwind (install and customize daisyui) - done
+-- active navgigationbn - done
+-- display 3 posts on homepage - done
+-- display 6 posts on posts page (loading...) - done
+-- revalidating in home page 3 posts - done
+-- customize error page (post) - done
+-- common and dashboard common group layout - done
+-- not found page - (no navbar) - done
+-- error page (post) - done
+-- create dashboard page and hide navbar on dashboard - done
